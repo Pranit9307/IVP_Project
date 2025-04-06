@@ -164,4 +164,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 - OpenCV for image processing capabilities
 - Streamlit for the web interface
+<<<<<<< HEAD
 - All contributors and users of this tool
+=======
+- All contributors and users of this tool
+>>>>>>> 95c13fadb738349896c1a4e66e5b5354c9feb4ed
